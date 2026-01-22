@@ -7,9 +7,6 @@ print(a*b)
 
 
 """ Q2. Take two numbers from user and print:
-
 Their sum
-
 Their difference
-
 Their product """
