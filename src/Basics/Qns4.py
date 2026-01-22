@@ -1,0 +1,8 @@
+n=input("Enter a value:")
+int_n = int(n)
+float_n = float(n)
+str_n = str(n)
+print (n)
+print(int_n)
+print(float_n)
+print(str_n)
